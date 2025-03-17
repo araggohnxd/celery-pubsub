@@ -2,6 +2,8 @@
 
 # Using Google Cloud Pub/Sub as Celery's message broker
 
+![Celery and Google Cloud Pub/Sub's logo](./assets/celery-pubsub.png)
+
 Hello, world!
 
 On today’s article, I’m going to show you how to use Google Cloud Pub/Sub as Celery’s message broker. This is a very simple and straightforward process, but it can be a little bit tricky if you’re not familiar with Google Cloud’s services.
