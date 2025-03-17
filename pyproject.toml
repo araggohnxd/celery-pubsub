@@ -1,0 +1,10 @@
+[project]
+name = "celery-pubsub"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "celery[gcs]==5.5.0rc5",
+    "kombu[gcpubsub]==5.5.0",
+]
