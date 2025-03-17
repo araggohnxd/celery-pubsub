@@ -1,3 +1,5 @@
+> Go to article [here!](https://medium.com/p/e21a9ec1458e)
+
 # Using Google Cloud Pub/Sub as Celery's message broker
 
 Hello, world!
